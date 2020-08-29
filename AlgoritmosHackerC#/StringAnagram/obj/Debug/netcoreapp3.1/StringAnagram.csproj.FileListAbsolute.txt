@@ -1,0 +1,13 @@
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.exe
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.deps.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.runtimeconfig.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.runtimeconfig.dev.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.dll
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.pdb
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.csprojAssemblyReference.cache
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.AssemblyInfoInputs.cache
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.AssemblyInfo.cs
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.csproj.CoreCompileInputs.cache
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.dll
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.pdb
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.genruntimeconfig.cache

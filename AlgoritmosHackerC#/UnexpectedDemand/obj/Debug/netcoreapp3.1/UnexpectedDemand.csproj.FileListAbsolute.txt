@@ -1,0 +1,12 @@
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.exe
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.deps.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.runtimeconfig.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.runtimeconfig.dev.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.dll
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.pdb
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.AssemblyInfoInputs.cache
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.AssemblyInfo.cs
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.csproj.CoreCompileInputs.cache
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.dll
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.pdb
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.genruntimeconfig.cache

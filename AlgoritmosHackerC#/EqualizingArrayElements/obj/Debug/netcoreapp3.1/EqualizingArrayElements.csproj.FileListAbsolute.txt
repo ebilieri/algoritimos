@@ -1,0 +1,12 @@
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\EqualizingArrayElements.exe
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\EqualizingArrayElements.deps.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\EqualizingArrayElements.runtimeconfig.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\EqualizingArrayElements.runtimeconfig.dev.json
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\EqualizingArrayElements.dll
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\EqualizingArrayElements.pdb
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\EqualizingArrayElements.AssemblyInfoInputs.cache
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\EqualizingArrayElements.AssemblyInfo.cs
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\EqualizingArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\EqualizingArrayElements.dll
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\EqualizingArrayElements.pdb
+C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\EqualizingArrayElements.genruntimeconfig.cache
