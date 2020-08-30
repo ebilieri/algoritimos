@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\EqualizingArrayElements\\EqualizingArrayElements.csproj": {}
+    "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\EqualizingArrayElements\\EqualizingArrayElements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\EqualizingArrayElements\\EqualizingArrayElements.csproj": {
+    "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\EqualizingArrayElements\\EqualizingArrayElements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\EqualizingArrayElements\\EqualizingArrayElements.csproj",
+        "projectUniqueName": "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\EqualizingArrayElements\\EqualizingArrayElements.csproj",
         "projectName": "EqualizingArrayElements",
-        "projectPath": "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\EqualizingArrayElements\\EqualizingArrayElements.csproj",
+        "projectPath": "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\EqualizingArrayElements\\EqualizingArrayElements.csproj",
         "packagesPath": "C:\\Users\\emerson.claudelino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\EqualizingArrayElements\\obj\\",
+        "outputPath": "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\EqualizingArrayElements\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

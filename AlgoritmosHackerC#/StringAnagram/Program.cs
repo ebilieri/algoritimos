@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 
 namespace StringAnagram
@@ -32,66 +33,75 @@ namespace StringAnagram
             {
                 Console.WriteLine(item);
             }
+
+            InputByTextFile(dictionary, query);
         }
 
+        private static void InputByTextFile(List<string> dictionary, List<string> query)
+        {
+            List<int> result;
+            Console.WriteLine("Case 3");
+            // ------------
+            using (var sr = new StreamReader(Directory.GetCurrentDirectory() + @"\inputDictionary.txt"))
+            {
+                dictionary.Clear();
+                string line;
+                while ((line = sr.ReadLine()) != null)
+                    dictionary.Add(line);
 
-        /*
-     * Complete the 'stringAnagram' function below.
-     *
-     * The function is expected to return an INTEGER_ARRAY.
-     * The function accepts following parameters:
-     *  1. STRING_ARRAY dictionary
-     *  2. STRING_ARRAY query
-     */
+            }
 
-        //public static List<int> stringAnagram(List<string> dictionary, List<string> query)
-        //{
-        //    List<int> list = new List<int>();
-        //    string[] q = new string[query.Count()];
-        //    string[] d = new string[dictionary.Count()];
+            using (var sr = new StreamReader(Directory.GetCurrentDirectory() + @"\inputQuery.txt"))
+            {
+                query.Clear();
+                string line;
+                while ((line = sr.ReadLine()) != null)
+                    query.Add(line);
 
-        //    for (int i = 0; i < query.Count(); i++)
-        //    {
-        //        string str1 = string.Concat(query[i].ToLower().OrderBy(x => x));
-        //        q[i] = str1;
-        //    }
+            }
 
-        //    for (int j = 0; j < dictionary.Count(); j++)
-        //    {
-        //        string str2 = string.Concat(dictionary[j].ToLower().OrderBy(x => x));
-        //        d[j] = str2;
-        //    }
+            result = stringAnagram(dictionary, query);
 
-        //    foreach (var item in q)
-        //    {                
-        //        list.Add(d.Where(x => x == item).Count());
-        //    }
-        //    return list;
-        //}
-
+            foreach (var item in result)
+            {
+                Console.WriteLine(item);
+            }            
+        }
 
         public static List<int> stringAnagram(List<string> dictionary, List<string> query)
         {
             List<int> list = new List<int>();
-            string[] q = new string[query.Count()];
-            string[] d = new string[dictionary.Count()];
-
-            for (int i = 0; i < query.Count(); i++)
-            {
-                string str1 = string.Concat(query[i].ToLower().OrderBy(x => x));
-                q[i] = str1;
-            }
-
+            
+            // Ordenar anagram e agrupar itens no Dictionary
+            Dictionary<string, int> dictOrdered = new Dictionary<string, int>();
             for (int j = 0; j < dictionary.Count(); j++)
             {
                 string str2 = string.Concat(dictionary[j].ToLower().OrderBy(x => x));
-                d[j] = str2;
+
+                if (dictOrdered.ContainsKey(str2))
+                    dictOrdered[str2] = dictOrdered[str2] + 1;
+                else
+                    dictOrdered.Add(str2, 1);
             }
 
-            foreach (var item in q)
+
+            // Ordernar anagrama
+            string[] queryOrdered = new string[query.Count()];
+            for (int i = 0; i < query.Count(); i++)
             {
-                list.Add(d.Where(x => x == item).Count());
+                string str1 = string.Concat(query[i].ToLower().OrderBy(x => x));
+                queryOrdered[i] = str1;
             }
+
+            // Verificar anagramas na lista
+            foreach (var item in queryOrdered)
+            {                
+                if (dictOrdered.ContainsKey(item))
+                    list.Add(dictOrdered[item]);
+                else
+                    list.Add(0);
+            }
+
             return list;
         }
     }

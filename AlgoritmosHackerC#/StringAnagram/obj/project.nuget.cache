@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q9a8+hAknKv2IHmtBZq9inGc4Sxt9dUmc4wQdKvSO6CcaeOJ10L+iCB7X5uaLe2XvTn0rkUwOIvakKVcc6f64w==",
+  "dgSpecHash": "a0A+JaE1DphZNjXMIjXyA0IOIuW/x1M77Fk8JkvqeMwARifZMIr02lXobK5R3VNjyQzlKLR+eI0rRbAEGAjhCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\StringAnagram\\StringAnagram.csproj",
+  "projectFilePath": "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\StringAnagram\\StringAnagram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

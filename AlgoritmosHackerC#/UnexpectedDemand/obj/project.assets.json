@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\UnexpectedDemand\\UnexpectedDemand.csproj",
+      "projectUniqueName": "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\UnexpectedDemand\\UnexpectedDemand.csproj",
       "projectName": "UnexpectedDemand",
-      "projectPath": "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\UnexpectedDemand\\UnexpectedDemand.csproj",
+      "projectPath": "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\UnexpectedDemand\\UnexpectedDemand.csproj",
       "packagesPath": "C:\\Users\\emerson.claudelino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\UnexpectedDemand\\obj\\",
+      "outputPath": "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\UnexpectedDemand\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

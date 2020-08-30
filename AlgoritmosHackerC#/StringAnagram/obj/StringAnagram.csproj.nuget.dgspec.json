@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\StringAnagram\\StringAnagram.csproj": {}
+    "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\StringAnagram\\StringAnagram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\StringAnagram\\StringAnagram.csproj": {
+    "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\StringAnagram\\StringAnagram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\StringAnagram\\StringAnagram.csproj",
+        "projectUniqueName": "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\StringAnagram\\StringAnagram.csproj",
         "projectName": "StringAnagram",
-        "projectPath": "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\StringAnagram\\StringAnagram.csproj",
+        "projectPath": "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\StringAnagram\\StringAnagram.csproj",
         "packagesPath": "C:\\Users\\emerson.claudelino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emerson.claudelino\\source\\repos\\ConsoleApp1\\StringAnagram\\obj\\",
+        "outputPath": "C:\\BootCamp\\Algoritmos\\AlgoritmosHackerC#\\StringAnagram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
