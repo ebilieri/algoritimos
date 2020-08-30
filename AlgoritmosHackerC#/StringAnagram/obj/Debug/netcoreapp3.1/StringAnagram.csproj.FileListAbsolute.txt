@@ -11,3 +11,17 @@ C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\obj\Debug\net
 C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.dll
 C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.pdb
 C:\Users\emerson.claudelino\source\repos\ConsoleApp1\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.genruntimeconfig.cache
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.exe
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\bin\Debug\netcoreapp3.1\inputDictionary.txt
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\bin\Debug\netcoreapp3.1\inputQuery.txt
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.deps.json
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.runtimeconfig.json
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.runtimeconfig.dev.json
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.dll
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\bin\Debug\netcoreapp3.1\StringAnagram.pdb
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.AssemblyInfoInputs.cache
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.AssemblyInfo.cs
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.csproj.CoreCompileInputs.cache
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.dll
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.pdb
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.genruntimeconfig.cache

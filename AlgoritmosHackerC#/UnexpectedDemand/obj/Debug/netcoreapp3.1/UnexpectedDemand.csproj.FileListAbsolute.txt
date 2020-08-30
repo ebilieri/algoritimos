@@ -10,3 +10,15 @@ C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\obj\Debug\
 C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.dll
 C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.pdb
 C:\Users\emerson.claudelino\source\repos\ConsoleApp1\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.genruntimeconfig.cache
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.exe
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.deps.json
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.runtimeconfig.json
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.runtimeconfig.dev.json
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.dll
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\bin\Debug\netcoreapp3.1\UnexpectedDemand.pdb
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.AssemblyInfoInputs.cache
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.AssemblyInfo.cs
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.csproj.CoreCompileInputs.cache
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.dll
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.pdb
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\UnexpectedDemand\obj\Debug\netcoreapp3.1\UnexpectedDemand.genruntimeconfig.cache
