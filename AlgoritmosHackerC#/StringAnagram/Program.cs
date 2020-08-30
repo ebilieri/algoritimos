@@ -84,7 +84,6 @@ namespace StringAnagram
                     dictOrdered.Add(str2, 1);
             }
 
-
             // Ordernar anagrama
             string[] queryOrdered = new string[query.Count()];
             for (int i = 0; i < query.Count(); i++)

@@ -10,3 +10,16 @@ C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netco
 C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\EqualizingArrayElements.dll
 C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\EqualizingArrayElements.pdb
 C:\Users\emerson.claudelino\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\EqualizingArrayElements.genruntimeconfig.cache
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\bin\Debug\netcoreapp3.1\EqualizingArrayElements.exe
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\bin\Debug\netcoreapp3.1\EqualizingArrayElements.deps.json
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\bin\Debug\netcoreapp3.1\EqualizingArrayElements.runtimeconfig.json
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\bin\Debug\netcoreapp3.1\EqualizingArrayElements.runtimeconfig.dev.json
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\bin\Debug\netcoreapp3.1\EqualizingArrayElements.dll
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\bin\Debug\netcoreapp3.1\EqualizingArrayElements.pdb
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\obj\Debug\netcoreapp3.1\EqualizingArrayElements.csprojAssemblyReference.cache
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\obj\Debug\netcoreapp3.1\EqualizingArrayElements.AssemblyInfoInputs.cache
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\obj\Debug\netcoreapp3.1\EqualizingArrayElements.AssemblyInfo.cs
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\obj\Debug\netcoreapp3.1\EqualizingArrayElements.csproj.CoreCompileInputs.cache
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\obj\Debug\netcoreapp3.1\EqualizingArrayElements.dll
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\obj\Debug\netcoreapp3.1\EqualizingArrayElements.pdb
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\EqualizingArrayElements\obj\Debug\netcoreapp3.1\EqualizingArrayElements.genruntimeconfig.cache
