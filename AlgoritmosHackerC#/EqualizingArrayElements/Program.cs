@@ -26,7 +26,7 @@ namespace EqualizingArrayElements
             // parameter divisao
             int d = 2;
 
-            int r1 = minOperations(arr, threshold, d);
+            int r1 = MinOperations(arr, threshold, d);
             Console.WriteLine(r1);
 
             Console.WriteLine("Cadse 2");
@@ -37,12 +37,12 @@ namespace EqualizingArrayElements
             // parameter divisao
             d = 3;
 
-            int r2 = minOperations(arr, threshold, d);
+            int r2 = MinOperations(arr, threshold, d);
             Console.WriteLine(r2);
         }
 
 
-        public static int minOperations(List<int> arr, int threshold, int d)
+        public static int MinOperations(List<int> arr, int threshold, int d)
         {
             int totalOperacoes = 0;
             int? contagem = 0;

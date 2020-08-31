@@ -8,37 +8,37 @@ namespace AlternatingCharacters
         {
 
             string input = "AAAA";
-            int ret = alternatingCharacters(input);
+            int ret = AlternatingCharacters(input);
             Console.WriteLine(ret);
 
             input = "BBBBB";
-            ret = alternatingCharacters(input);
+            ret = AlternatingCharacters(input);
             Console.WriteLine(ret);
 
             input = "ABABABAB";
-            ret = alternatingCharacters(input);
+            ret = AlternatingCharacters(input);
             Console.WriteLine(ret);
 
             input = "BABABA";
-            ret = alternatingCharacters(input);
+            ret = AlternatingCharacters(input);
             Console.WriteLine(ret);
 
             input = "AAABBB";
-            ret = alternatingCharacters(input);
+            ret = AlternatingCharacters(input);
             Console.WriteLine(ret);
 
             input = "AABB";
-            ret = alternatingCharacters(input);
+            ret = AlternatingCharacters(input);
             Console.WriteLine(ret);
 
             input = "ABBB";
-            ret = alternatingCharacters(input);
+            ret = AlternatingCharacters(input);
             Console.WriteLine(ret);
 
         }
 
 
-        static int alternatingCharacters(string s)
+        static int AlternatingCharacters(string s)
         {
             char[] arr = s.ToCharArray();
             

@@ -18,7 +18,7 @@ namespace UnexpectedDemand
             List<int> ped = new List<int> { 10, 30, 40, 50 };
             int itms = 40;
 
-            int result = filledOrders(ped, itms);
+            int result = FilledOrders(ped, itms);
             Console.WriteLine(result);
 
 
@@ -27,12 +27,12 @@ namespace UnexpectedDemand
             ped = new List<int> { 3, 5, 4, 6, 1, 2 };
             itms = 9;
 
-            result = filledOrders(ped, itms);
+            result = FilledOrders(ped, itms);
             Console.WriteLine(result);
         }
 
 
-        public static int filledOrders(List<int> order, int k)
+        public static int FilledOrders(List<int> order, int k)
         {
             order.Sort();
             int count = 0;
