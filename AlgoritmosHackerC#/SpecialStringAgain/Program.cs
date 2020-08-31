@@ -8,23 +8,62 @@ namespace SpecialStringAgain
         static void Main(string[] args)
         {
             string input = "asasd";
-            long ret = substrCount(input.Length, input); // 7
+            long ret = SubstrCount(input.Length, input); // 7
             Console.WriteLine(ret);
 
             input = "abcbaba";
-            ret = substrCount(input.Length, input); // 10
+            ret = SubstrCount(input.Length, input); // 10
             Console.WriteLine(ret);
 
             input = "aaaa";
-            ret = substrCount(input.Length, input); // 10
+            ret = SubstrCount(input.Length, input); // 10
             Console.WriteLine(ret);
 
-            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("No Performatic!");
+            input = "asasd";
+            ret = SubstrCountNoPerformatic(input.Length, input); // 7
+            Console.WriteLine(ret);
+
+            input = "abcbaba";
+            ret = SubstrCountNoPerformatic(input.Length, input); // 10
+            Console.WriteLine(ret);
+
+            input = "aaaa";
+            ret = SubstrCountNoPerformatic(input.Length, input); // 10
+            Console.WriteLine(ret);
         }
 
-        static long substrCount(int n, string s)
+        static long SubstrCount(int n, string s)
         {
-            int retorno = n;
+            long retorno = n;
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                int repeat = 0;
+                while (i + 1 < s.Length && s[i] == s[i + 1])
+                {
+                    repeat++;
+                    i++;
+                }
+
+                retorno += repeat * (repeat + 1) / 2;
+
+                int pointer = 1;
+
+                while (i - pointer >= 0 && i + pointer < s.Length && s[i + pointer] == s[i - 1] && s[i - pointer] == s[i - 1])
+                {
+                    retorno++;
+                    pointer++;
+                }
+            }
+
+            return retorno;
+        }
+
+        static long SubstrCountNoPerformatic(int n, string s)
+        {
+            long retorno = n;
             string special;
 
             for (int i = 0; i < s.Length; i++)
