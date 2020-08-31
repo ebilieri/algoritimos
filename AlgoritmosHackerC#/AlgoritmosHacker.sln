@@ -9,15 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringAnagram", "StringAnag
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnexpectedDemand", "UnexpectedDemand\UnexpectedDemand.csproj", "{3E285F2F-3D39-4777-8199-7FC4747B0961}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{B6BE6CDA-C9CC-436E-8152-21511AE4EE77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fatorial", "Fatorial\Fatorial.csproj", "{B6BE6CDA-C9CC-436E-8152-21511AE4EE77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftRotarionArray", "LeftRotarionArray\LeftRotarionArray.csproj", "{324675EA-7CC2-4091-AA6D-1842815AD377}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeftRotarionArray", "LeftRotarionArray\LeftRotarionArray.csproj", "{324675EA-7CC2-4091-AA6D-1842815AD377}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeAnagram", "MakeAnagram\MakeAnagram.csproj", "{69447275-54AC-4B04-A6EA-9A22C3E5703D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeAnagram", "MakeAnagram\MakeAnagram.csproj", "{69447275-54AC-4B04-A6EA-9A22C3E5703D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternatingCharacters", "AlternatingCharacters\AlternatingCharacters.csproj", "{489767D1-4D69-4BE4-8E94-966FC52C6ED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlternatingCharacters", "AlternatingCharacters\AlternatingCharacters.csproj", "{489767D1-4D69-4BE4-8E94-966FC52C6ED8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockValidString", "SherlockValidString\SherlockValidString.csproj", "{EC9BFD77-762D-4B28-8AA8-C31106E38D17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SherlockValidString", "SherlockValidString\SherlockValidString.csproj", "{EC9BFD77-762D-4B28-8AA8-C31106E38D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialStringAgain", "SpecialStringAgain\SpecialStringAgain.csproj", "{903D6BE7-1763-4907-9776-32E558E09CD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{EC9BFD77-762D-4B28-8AA8-C31106E38D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC9BFD77-762D-4B28-8AA8-C31106E38D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC9BFD77-762D-4B28-8AA8-C31106E38D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{903D6BE7-1763-4907-9776-32E558E09CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903D6BE7-1763-4907-9776-32E558E09CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903D6BE7-1763-4907-9776-32E558E09CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903D6BE7-1763-4907-9776-32E558E09CD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
