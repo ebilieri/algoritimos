@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SherlockValidString", "Sher
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialStringAgain", "SpecialStringAgain\SpecialStringAgain.csproj", "{903D6BE7-1763-4907-9776-32E558E09CD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonChildString", "CommonChild\CommonChildString.csproj", "{64557CD5-1BA5-4091-8DF6-E4445B42EB8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{903D6BE7-1763-4907-9776-32E558E09CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{903D6BE7-1763-4907-9776-32E558E09CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{903D6BE7-1763-4907-9776-32E558E09CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64557CD5-1BA5-4091-8DF6-E4445B42EB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64557CD5-1BA5-4091-8DF6-E4445B42EB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64557CD5-1BA5-4091-8DF6-E4445B42EB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64557CD5-1BA5-4091-8DF6-E4445B42EB8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
