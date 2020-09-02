@@ -60,9 +60,14 @@
     <Folder Include="exercicios\PaymentBill" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="exercicio\PaymentBill\Bill Payment Query.html" />
+    <None Include="exercicios\PaymentBill\Bill Payment Query.html" />
+    <None Include="exercicios\PaymentBill\resolution.sql" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="exercicio\PaymentBill\BILLS.sql" />
+    <Build Include="exercicios\PaymentBill\FAMILIES.sql" />
+    <Build Include="exercicios\PaymentBill\BILLS.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="SQL.refactorlog" />
   </ItemGroup>
 </Project>
