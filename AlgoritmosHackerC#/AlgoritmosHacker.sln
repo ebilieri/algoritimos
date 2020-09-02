@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlternatingCharacters", "Al
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SherlockValidString", "SherlockValidString\SherlockValidString.csproj", "{EC9BFD77-762D-4B28-8AA8-C31106E38D17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialStringAgain", "SpecialStringAgain\SpecialStringAgain.csproj", "{903D6BE7-1763-4907-9776-32E558E09CD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecialStringAgain", "SpecialStringAgain\SpecialStringAgain.csproj", "{903D6BE7-1763-4907-9776-32E558E09CD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonChildString", "CommonChild\CommonChildString.csproj", "{64557CD5-1BA5-4091-8DF6-E4445B42EB8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonChildString", "CommonChild\CommonChildString.csproj", "{64557CD5-1BA5-4091-8DF6-E4445B42EB8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpingOnClouds", "JumpingOnClouds\JumpingOnClouds.csproj", "{4939B611-D45B-48C1-89CB-05338F883795}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "FibonacciSequence\Fibonacci.csproj", "{17411B43-AB24-4AF2-85B8-2615BF175999}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{64557CD5-1BA5-4091-8DF6-E4445B42EB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64557CD5-1BA5-4091-8DF6-E4445B42EB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64557CD5-1BA5-4091-8DF6-E4445B42EB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4939B611-D45B-48C1-89CB-05338F883795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4939B611-D45B-48C1-89CB-05338F883795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4939B611-D45B-48C1-89CB-05338F883795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4939B611-D45B-48C1-89CB-05338F883795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17411B43-AB24-4AF2-85B8-2615BF175999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17411B43-AB24-4AF2-85B8-2615BF175999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17411B43-AB24-4AF2-85B8-2615BF175999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17411B43-AB24-4AF2-85B8-2615BF175999}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
