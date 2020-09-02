@@ -25,3 +25,4 @@ C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\obj\Debug\netcoreapp3.1\
 C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.dll
 C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.pdb
 C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.genruntimeconfig.cache
+C:\BootCamp\Algoritmos\AlgoritmosHackerC#\StringAnagram\obj\Debug\netcoreapp3.1\StringAnagram.csprojAssemblyReference.cache
