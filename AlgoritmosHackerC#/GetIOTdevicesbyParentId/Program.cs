@@ -35,9 +35,7 @@ namespace GetIOTdevicesbyParentId
         }
 
         private static async Task<Devices> GetDevices(string statusQuery, int pag)
-        {
-            List<Datum> list = new List<Datum>();
-
+        {            
             using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri("https://jsonmock.hackerrank.com");
